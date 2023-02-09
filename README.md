@@ -2,6 +2,8 @@
 
 A suite of useful data science related scripts.
 
-## Satellite
+## [Satellite](/satellite/)
 
 How to add a satellite image basemap for maps using Python.
+
+![satellite image](satellite/images/satellite.png)
