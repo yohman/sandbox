@@ -1,6 +1,6 @@
 # Satellite basemap
 
-This notebook demonstrates the usage of a mapbox satellite basemap for a digital map created with python.
+This [notebook](satellite.ipynb) demonstrates the usage of a mapbox satellite basemap for a digital map created with python.
 
 ### Libraries used
 - geopandas
